@@ -1,5 +1,5 @@
 {
-    "name": "azo_custom_modules/cc_views_field",
+    "name": "az-marketing/cc_views_field",
     "description": "Adds custom views field for cost estimator view",
     "type": "drupal-module",
     "require": {
