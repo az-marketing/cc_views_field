@@ -3,6 +3,6 @@
     "description": "Adds custom views field for cost estimator view",
     "type": "drupal-module",
     "require": {
-
+        "php": ">=7.2"
     }
 } 
