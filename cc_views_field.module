@@ -1,0 +1,24 @@
+<?php
+
+/**
+ * @file
+ * Contains cc_views_field.module.
+ */
+
+use Drupal\Core\Routing\RouteMatchInterface;
+
+/**
+ * Implements hook_help().
+ */
+function cc_views_field_help($route_name, RouteMatchInterface $route_match) {
+  switch ($route_name) {
+    // Main module help for the cc_views_field module.
+    case 'help.page.cc_views_field':
+      $output = '';
+      $output .= '<h3>' . t('About') . '</h3>';
+      $output .= '<p>' . t('Includes logic for cost estimator.') . '</p>';
+      return $output;
+
+    default:
+  }
+}
