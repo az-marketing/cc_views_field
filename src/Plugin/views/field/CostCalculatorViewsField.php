@@ -147,7 +147,7 @@ $output = "
 </tbody>
 
 </table>
-<p><strong>Note:</strong> Unless otherwise indicated, there is no tuition cap for per unit programs. To calculate the cost for additional units beyond this rate table, add the cost per unit (1 unit of TUITION) to the TOTAL for each additional unit.</p><p> Some classes may have course-specific fees which are assessed in addition to mandatory fees. Please see the Special Course Fees page at <a href=\"http://registrar.arizona.edu/special-course-fees\" target=\"_blank\">http://registrar.arizona.edu/special-course-fees</a> for further information. <br><em> iCourse fees listed on the Special Course Fees page do <strong>not</strong> apply to University of Arizona Online students.</em></p>
+<p><strong>Note:</strong> Unless otherwise indicated, there is no tuition cap for per unit programs. To calculate the cost for additional units beyond this rate table, add the cost per unit (1 unit of TUITION) to the TOTAL for each additional unit.</p><p> Some classes may have course-specific fees which are assessed in addition to mandatory fees. Please see the Special Course Fees page at <a href=\"https://registrar.arizona.edu/special-course-fees\" target=\"_blank\">https://registrar.arizona.edu/special-course-fees</a> for further information. <br><em> iCourse fees listed on the Special Course Fees page do <strong>not</strong> apply to University of Arizona Online students.</em></p>
   </div>
 
   <!-- <div class=\"modal fade\" id=\"fee-explanation\" tabindex=\"-1\" role=\"dialog\" aria-labelledby=\"thismodallabel\">
